@@ -1,3 +1,16 @@
+# Neural Net
+***Wanted to create a network of my own design***
+
+
+[Software Demo Video](https://youtu.be/EQYTeA_eLhE)
+
+# Development Environment
+
+* VScode
+* Andaconda
+* python 3.9.12
+
+
 ## Installations
 * Numpy
 * matplotlib
@@ -16,7 +29,16 @@
 * Own data of what we are looking at
 * Each of the 3 input circles for example could represent seprate data in a data set
 
-## Foward pass 
+## links
+* [sentdex](https://www.youtube.com/watch?v=txh3TQDwP1g&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&index=9)
+* [valerio verlardo](https://www.youtube.com/watch?v=Z97XGNUUx9o&list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf&index=8)
+
+
+# Future Work
+
+* Complete the back propagation
+* Add more actuvations
+* add a class to handle most of the hands on stuff
 
 
 
